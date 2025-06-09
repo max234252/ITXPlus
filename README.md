@@ -3,7 +3,7 @@ This readme is a WIP and will be updated over the coming days / weeks. It will c
 If you have any questions regarding this there are threads on 68kmla and Tinkerdifferent and I am happy to answer any questions there
 # ITXPlus
 ITXPlus is a ITX sized Macintosh Plus clone that can be built with no original parts
-
+![ITXPlus](https://github.com/max234252/ITXPlus/blob/main/Images/ITXPlus_V1.0RC_Build.jpg)
 ITXPlus is mostly a squished down SMT clone of the original board with a few differences:
 1) A full 4MB of RAM is soldered to the board (8x 1Mx4 ICs)
 2) Onboard VGA, PS2 for keyboard / mouse and a internal 50pin SCSI connector
