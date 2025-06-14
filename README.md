@@ -11,12 +11,12 @@ ITXPlus is mostly a squished down SMT clone of the original board with a few dif
 4) IWM removed (so no floppy support by default) and replaced with a pldSCHWIM
 5) Sony Sound chip has been replaced with DosFox's replacement desig
 
-ITXPlus was only made possible Thanks to the work of others, it uses:
-DosFox's Sony Sound replacement design (https://github.com/DosFox1/Sony-SND-THT-Replacement) 
-pldSCHWIM - my implimentation of DosFox's SCHWIM in a single 16V8 PLD (Original design: https://github.com/DosFox1/Shim-IWM) (My design: https://github.com/max234252/pldSCHWIM)
-GuruThree's Pico based scan converter (https://github.com/guruthree/mac-se-video-converter)
-Either quortan or pgreenland's ATTiny based RTC (https://github.com/quorten/macsehw/tree/master/firmware/rtc) (https://github.com/pgreenland/attinyrtc)
-Tashtari's Keyboard and Mouse PS2 converters (https://github.com/lampmerchant/ps2-to-plus-keyboard) (https://github.com/lampmerchant/ps2-to-quad-mouse)
+ITXPlus was only made possible Thanks to the work of others, it uses:<br/>
+DosFox's Sony Sound replacement design (https://github.com/DosFox1/Sony-SND-THT-Replacement) <br/>
+pldSCHWIM - my implimentation of DosFox's SCHWIM in a single 16V8 PLD (Original design: https://github.com/DosFox1/Shim-IWM) (My design: https://github.com/max234252/pldSCHWIM)<br/>
+GuruThree's Pico based scan converter (https://github.com/guruthree/mac-se-video-converter)<br/>
+Either quortan or pgreenland's ATTiny based RTC (https://github.com/quorten/macsehw/tree/master/firmware/rtc) (https://github.com/pgreenland/attinyrtc)<br/>
+Tashtari's Keyboard and Mouse PS2 converters (https://github.com/lampmerchant/ps2-to-plus-keyboard) (https://github.com/lampmerchant/ps2-to-quad-mouse)<br/>
 Porchy, Hkz and Bolle's Reverse engineered PAL's (https://wiki.pldarchive.co.uk/index.php?title=Macintosh_128k/512k/Plus)
 
 # Why the Plus? Why not use the SE/30? or the IIci?
